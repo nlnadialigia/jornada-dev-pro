@@ -4,11 +4,9 @@
 
 
 <h1 align="center">
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/
-jornada-dev-pro?color=9E4107&logoColor=480032&style=flat-square"/>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/jornada-dev-pro?color=9E4107&logoColor=9E4107&style=flat-square">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/
-jornada-dev-pro?color=480032&logoColor=9E4107&style=flat-square">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/jornada-dev-pro?color=9E4107&logoColor=9E4107&style=flat-square">
    
 
   <a href="./LICENSE.md">
